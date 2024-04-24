@@ -1,0 +1,3 @@
+*.svg
+.idea
+!/letters_svg/*.svg
